@@ -22,7 +22,9 @@
 
 html,
 body {
+  min-height: 100vh;
   box-sizing: border-box;
+  margin: 0;
 }
 
 body {
@@ -40,6 +42,9 @@ header {
   background-color: rgb(150, 110, 30);
   margin-bottom: 15vh;
   width: 100vw;
+  position: sticky;
+  top: 0;
+  z-index: 100;
 }
 
 footer {
@@ -56,8 +61,8 @@ h1 {
   text-shadow: 3px 3px 3px black;
   color: rgb(120, 200, 110);
   font-family: titles;
-  font-size: 80px;
-  margin: 3vh auto;
+  font-size: 60px;
+  margin: 2vh auto;
   transition: 1.5s;
   cursor: pointer;
 }
@@ -82,10 +87,14 @@ p {
 }
 
 .footP {
-  font-size: 20px;
-  color: white;
+  font-size: 15px;
+  color: rgb(120, 200, 110);
   max-width: 50vw;
   cursor: default;
+}
+
+span {
+  color: white;
 }
 
 main {
@@ -173,4 +182,50 @@ h2 {
   flex-direction: column;
   align-items: center;
   margin-bottom: 150px;
+}
+
+/* Media Queries for Responsiveness */
+
+/* Small devices (phones) */
+@media (max-width: 576px) {
+  h1 {
+    font-size: 40px;
+  }
+
+  p,
+  .footP {
+    font-size: 16px;
+    max-width: 80vw;
+  }
+
+  input[type="text"] {
+    font-size: 14px;
+  }
+
+  button,
+  .inputButtons {
+    font-size: 14px;
+  }
+}
+
+/* Medium devices (tablets) */
+@media (min-width: 577px) and (max-width: 992px) {
+  h1 {
+    font-size: 50px;
+  }
+
+  p,
+  .footP {
+    font-size: 18px;
+    max-width: 60vw;
+  }
+
+  input[type="text"] {
+    font-size: 16px;
+  }
+
+  button,
+  .inputButtons {
+    font-size: 16px;
+  }
 }

@@ -501,7 +501,7 @@ function displayKeyResults() {
 
   if (keyResults.length === 0) {
     const noResultsElement = document.createElement("div");
-    noResultsElement.textContent = "Sorry, no taco for you :( Try again with another keyword.";
+    noResultsElement.textContent = "Sorry, no 🌮 for you :( Try again with another keyword.";
     resultsContainer.appendChild(noResultsElement);
   } else {
     keyResults.forEach(function (result) {
