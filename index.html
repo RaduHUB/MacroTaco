@@ -13,26 +13,20 @@
     <link rel="shortcut icon" href="favicon.ico" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   </head>
-  <body>
+  <body title="Remember, Ticket Occupancy is ticking!">
     <!-- Header and the MacroTaco Logo -->
     <header>
-      <h1 id="coolHeading">🌮MacroTaco🌮</h1>
+      <h1 id="coolHeading">🌮 MacroTaco 🌮</h1>
     </header>
     <main>
-      <!-- Intro -->
-      <p>
-        Get started by typing in a key-word, like `review` or `EC`. After that you will be presented
-        with a list of Macros that you can choose from. If you want to display all Macros, type in
-        the word `all`. And please be quick... Ticket Occupancy.
-      </p>
       <!-- Search container -->
       <div class="search-container">
-        <label for="host">Host:</label>
+        <label title="Works for SuperHost as well :P" for="host">Host:</label>
         <input
           autocomplete="off"
           type="text"
           id="hostSearchInput"
-          placeholder="Search for macros"
+          placeholder="Type in 1 key-words"
         />
         <button onclick="searchHost()">Search</button>
       </div>
@@ -42,7 +36,7 @@
           autocomplete="off"
           type="text"
           id="guestSearchInput"
-          placeholder="Search for macros"
+          placeholder="Type in 1 key-word"
         />
         <button onclick="searchGuest()">Search</button>
       </div>

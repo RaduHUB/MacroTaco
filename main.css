@@ -22,7 +22,8 @@
 
 html,
 body {
-  height: 100%;
+  height: auto;
+  box-sizing: border-box;
 }
 
 body {
@@ -32,7 +33,6 @@ body {
   align-items: center;
   background-color: #5b63b7;
   color: #333;
-  font-family: Arial, sans-serif;
   text-align: center;
   margin: 0;
   padding: 0;
@@ -44,6 +44,7 @@ header {
   font-size: 30px;
   color: yellow;
   text-shadow: 2px 2px 1px black;
+  margin-bottom: 5%;
 }
 
 h1 {
@@ -206,7 +207,7 @@ h2 {
   }
 
   h1 {
-    font-size: 24px;
+    font-size: 45px;
     width: 100vw;
   }
 
