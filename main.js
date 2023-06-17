@@ -630,4 +630,10 @@ function searchGuest() {
   console.log(`You have TACO-ed ${counter} time/s`);
 }
 
+// --------------------- Reload Page Logic --------------------- //
+
+function reload() {
+  location.reload();
+}
+
 // --------------------- End --------------------- //

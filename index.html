@@ -13,41 +13,43 @@
     <link rel="shortcut icon" href="favicon.ico" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   </head>
-  <body title="Remember, Ticket Occupancy is ticking!">
-    <!-- Header and the MacroTaco Logo -->
+      <!-- Header and the MacroTaco Logo -->
     <header>
-      <h1 id="coolHeading">🌮 MacroTaco 🌮</h1>
+      <h1 onclick="reload()" id="coolHeading">🌮 MacroTaco 🌮</h1>
     </header>
+    <p></p>
     <main>
       <!-- Search container -->
       <div class="search-container">
-        <label title="Works for SuperHost as well :P" for="host">Host:</label>
+        <label title="Works for SuperHost as well :P" for="host">HOST:</label>
         <input
           autocomplete="off"
           type="text"
           id="hostSearchInput"
-          placeholder="Type in 1 key-words"
+          placeholder="Type in 1 key-words, or `all`"
         />
-        <button onclick="searchHost()">Search</button>
+        <button class="inputButtons" onclick="searchHost()">Search</button>
       </div>
       <div class="search-container">
-        <label for="guest">Guest:</label>
+        <label for="guest">GUEST:</label>
         <input
           autocomplete="off"
           type="text"
           id="guestSearchInput"
-          placeholder="Type in 1 key-word"
+          placeholder="Type in 1 key-word, or `all`"
         />
-        <button onclick="searchGuest()">Search</button>
+        <button class="inputButtons" onclick="searchGuest()">Search</button>
       </div>
       <!-- Result container -->
       <div class="results-container">
         <h2>Results</h2>
         <div id="results">👁️❤️🌮</div>
       </div>
-      <br />
-      <!-- Recipe -->
+      <p></p>
     </main>
+    <footer>
+      <p class="footP">Is there any macro you want to see here</p>
+    </footer>
     <script src="main.js"></script>
   </body>
 </html>

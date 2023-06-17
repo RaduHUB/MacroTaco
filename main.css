@@ -22,7 +22,6 @@
 
 html,
 body {
-  height: auto;
   box-sizing: border-box;
 }
 
@@ -31,41 +30,62 @@ body {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  background-color: #5b63b7;
-  color: #333;
   text-align: center;
   margin: 0;
   padding: 0;
+  background-color: rgb(120, 200, 110);
 }
 
 header {
-  background-color: #5b63b7;
-  padding: 20px;
-  font-size: 30px;
-  color: yellow;
-  text-shadow: 2px 2px 1px black;
-  margin-bottom: 5%;
-}
-
-h1 {
-  margin: 20px auto;
-  font-family: titles;
-  font-size: 80px;
+  background-color: rgb(150, 110, 30);
+  margin-bottom: 15vh;
   width: 100vw;
 }
 
-p,
+footer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  background-color: rgb(150, 110, 30);
+  width: 100vw;
+}
+
+h1 {
+  text-shadow: 3px 3px 3px black;
+  color: rgb(120, 200, 110);
+  font-family: titles;
+  font-size: 80px;
+  margin: 3vh auto;
+  transition: 1.5s;
+  cursor: pointer;
+}
+
+h1:hover {
+  transition: 0.5s;
+  color: black;
+  text-shadow: 0px 0px 10px rgb(120, 200, 110);
+}
+
 label {
-  color: yellow;
+  font-size: 20px;
+  font-weight: bold;
+  color: rgb(150, 110, 30);
 }
 
 p {
-  margin: 20px auto;
-  max-width: 650px;
+  font-size: 20px;
+  color: rgb(150, 110, 30);
+  max-width: 50vw;
+  cursor: default;
 }
 
-a {
+.footP {
+  font-size: 20px;
   color: white;
+  max-width: 50vw;
+  cursor: default;
 }
 
 main {
@@ -82,23 +102,24 @@ main {
 
 input[type="text"] {
   padding: 8px;
-  font-size: 16px;
+  font-size: 18px;
   border-radius: 10px;
   border: 2px solid black;
+  color: rgb(150, 110, 30);
   transition: box-shadow 0.3s;
   outline: none;
 }
 
 input:hover,
 input:focus {
-  box-shadow: 0 0 5px 2px yellow;
+  box-shadow: 0 0 5px 2px rgb(150, 110, 30);
 }
 
 button {
-  padding: 8px 16px;
-  font-size: 16px;
-  background-color: #2196f3;
-  color: yellow;
+  padding: 5px 16px;
+  font-size: 18px;
+  background-color: rgb(120, 200, 110);
+  color: rgb(150, 110, 30);
   border: none;
   cursor: pointer;
   border-radius: 10px;
@@ -107,7 +128,23 @@ button {
 }
 
 button:hover {
-  box-shadow: 0 0 10px 2px #2196f3;
+  box-shadow: 0 0 10px 2px rgb(120, 200, 110);
+}
+
+.inputButtons {
+  padding: 8px 16px;
+  font-size: 18px;
+  background-color: rgb(150, 110, 30);
+  color: rgb(120, 200, 110);
+  border: none;
+  cursor: pointer;
+  border-radius: 10px;
+  transition: box-shadow 0.3s;
+  margin: auto 10px;
+}
+
+.inputButtons:hover {
+  box-shadow: 0 0 10px 2px rgb(150, 110, 30);
 }
 
 .results-container {
@@ -115,130 +152,25 @@ button:hover {
 }
 
 h2 {
-  color: yellow;
+  color: rgb(150, 110, 30);
+  cursor: default;
 }
 
 .results-container div {
-  background-color: yellow;
+  background-color: rgb(150, 110, 30);
   padding: 10px;
   margin: 10px auto;
   max-width: 400px;
   text-align: left;
   border-radius: 10px;
-  border: 3px solid black;
-  color: black;
+  box-shadow: 0px 0px 5px black;
+  color: rgb(120, 200, 110);
+  cursor: default;
 }
-
-/* Additional Styles */
 
 .results-container {
   display: flex;
   flex-direction: column;
   align-items: center;
   margin-bottom: 150px;
-}
-
-.key-results {
-  text-align: left;
-  max-width: 400px;
-  margin: 0 auto;
-  padding: 10px;
-  border-radius: 10px;
-  background-color: white;
-  border: 3px solid black;
-}
-
-.key-results div {
-  margin-bottom: 10px;
-  cursor: pointer;
-}
-
-.key-results div:hover {
-  background-color: #f7f7f7;
-}
-
-.key-results div:first-child {
-  margin-top: 10px;
-}
-
-.value-results {
-  margin-top: 20px;
-  text-align: left;
-  max-width: 400px;
-  margin: 0 auto;
-  padding: 10px;
-  border-radius: 10px;
-  background-color: white;
-  border: 3px solid black;
-}
-
-.back-button {
-  margin-top: 20px;
-  cursor: pointer;
-  color: #2196f3;
-}
-
-.back-button:hover {
-  text-decoration: underline;
-}
-
-.recipe {
-  max-width: 500px;
-  margin: 20px auto;
-  margin-top: auto;
-  margin-bottom: 20px;
-}
-
-.recipeButton {
-  color: white;
-  font-size: 20px;
-  cursor: pointer;
-  transition: 2s;
-}
-
-.recipeButton:hover {
-  color: red;
-}
-
-/* Styles for mobile devices */
-@media (max-width: 600px) {
-  header {
-    font-size: 24px;
-  }
-
-  h1 {
-    font-size: 45px;
-    width: 100vw;
-  }
-
-  p {
-    max-width: 90%;
-    font-size: 16px;
-  }
-
-  .search-container {
-    margin-bottom: 10px;
-  }
-
-  input[type="text"] {
-    font-size: 14px;
-  }
-
-  button {
-    font-size: 14px;
-  }
-
-  .results-container {
-    margin-bottom: 20px;
-  }
-
-  .key-results,
-  .value-results {
-    max-width: 90%;
-    font-size: 14px;
-  }
-
-  .back-button {
-    margin-top: 10px;
-  }
 }
