@@ -272,6 +272,44 @@ ${"<br>".repeat(2)}Best regards,${"<br>".repeat(2)}
   ${"<br>".repeat(2)}Best regards,${"<br>".repeat(2)}
   
   [Your Name]`,
+  host_RC_guest_approves_partial_payment: `Hello [Host's Name],${"<br>".repeat(2)}
+
+  We hope this message finds you well. We wanted to provide you with an update regarding the resolution of the issue related to your request. We appreciate your patience and understanding throughout this process.
+  
+  Unfortunately, we regret to inform you that the guest has only approved a partial payment in relation to your request. We understand that this may not be the outcome you were hoping for, and we sincerely apologize for any inconvenience or frustration it may have caused.
+  
+  Please be assured that we made every effort to mediate the situation and advocate for a fair resolution. We understand your concerns and have taken them into consideration during the process. However, the final decision regarding the payment lies with the guest, and we are unable to enforce a full payment without their approval.
+  
+  ${"<br>".repeat(
+    2
+  )}We want to assure you that we are committed to providing the best possible support and assistance. If you have any further questions or concerns, please do not hesitate to reach out to us. We are here to listen and provide any additional information or guidance you may need.
+  
+  Thank you for your understanding and cooperation. We appreciate your patience throughout this process, and we will continue to work diligently to address any remaining issues or concerns.${"<br>".repeat(
+    2
+  )}
+  
+  Best regards,${"<br>".repeat(2)}
+  
+  [Your Name]`,
+  host_RC_unhappy_outcome: `Hello [Host's Name],${"<br>".repeat(2)}
+
+  We hope this message finds you well. We wanted to express our sincere apologies for the outcome of the situation. We understand that this may not be the outcome you were expecting, and we empathize with any disappointment or frustration it may have caused.
+  
+  Please know that we genuinely did our best to mediate and find a fair resolution. We value your feedback and understand that you may have opinions or suggestions regarding our policies. We encourage you to share your thoughts and opinions by visiting our help article on providing feedback:${"<br>".repeat(
+    2
+  )}
+  
+  https://www.airbnb.com/help/article/1640${"<br>".repeat(2)}
+  
+  Your feedback is important to us as it helps us improve and enhance our services. We appreciate your willingness to share your perspective with us.
+  
+  If you have any further questions or concerns, please do not hesitate to reach out to us. We are here to support you and provide any additional assistance you may require.
+  
+  Thank you for your understanding, and we apologize once again for any inconvenience caused. We value your feedback and appreciate your cooperation.
+  ${"<br>".repeat(2)}
+  Best regards,${"<br>".repeat(2)}
+  
+  [Your Name]`,
 };
 
 // --------------------- Guest Macros --------------------- //
@@ -625,22 +663,6 @@ function recipeButton() {
     `<br>`.repeat(1) + "5 - "
   }Top with approximately 100g (1 cup) of shredded lettuce, 75g (1/2 cup) of diced tomatoes, 50g (1/2 cup) of shredded cheese, 60g (1/4 cup) of sour cream, and any optional toppings like salsa or hot sauce, guacamole, chopped cilantro, and a squeeze of lime juice.
   ${`<br>`.repeat(1) + "6 - "}Serve immediately and enjoy your delicious tacos!${`<br>`.repeat(3)}`;
-}
-
-// --------------------- CoolEffect Logic --------------------- //
-
-setInterval(function () {
-  const randomColor = getRandomColor();
-  heading.style.color = randomColor;
-}, 1000);
-
-function getRandomColor() {
-  const letters = "0123456789ABCDEF";
-  let color = "#";
-  for (let i = 0; i < 6; i++) {
-    color += letters[Math.floor(Math.random() * 16)];
-  }
-  return color;
 }
 
 // --------------------- End --------------------- //

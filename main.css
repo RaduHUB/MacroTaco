@@ -11,6 +11,11 @@
   src: url("./Pangolin-Regular.ttf");
 }
 
+@font-face {
+  font-family: "titles";
+  src: url("./LuckiestGuy-Regular.ttf");
+}
+
 * {
   font-family: font;
 }
@@ -35,19 +40,8 @@ header {
 h1 {
   width: 500px;
   margin: 20px auto;
-  animation: coolEffect 5s infinite alternate;
-}
-
-@keyframes coolEffect {
-  0% {
-    transform: scale(1);
-  }
-  50% {
-    transform: scale(1.2);
-  }
-  100% {
-    transform: scale(1);
-  }
+  font-family: titles;
+  font-size: 80px;
 }
 
 p,
