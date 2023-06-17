@@ -630,39 +630,4 @@ function searchGuest() {
   console.log(`You have TACO-ed ${counter} time/s`);
 }
 
-// --------------------- Recipe Logic --------------------- //
-
-function recipeButton() {
-  console.log(`the button was pressed`);
-  let recipe = document.getElementById(`recipe`);
-  recipe.innerHTML = `${"■"}Ingredients:${`<br>`.repeat(2) + `-`}
-
-  250g ground beef or chicken${`<br>`.repeat(1) + "-"}
-  1 packet (about 30g) taco seasoning${`<br>`.repeat(1) + "-"}
-  Taco shells or soft tortillas${`<br>`.repeat(1)}
-  1 cup (100g) shredded lettuce${`<br>`.repeat(1) + "-"}
-  1/2 cup (75g) diced tomatoes${`<br>`.repeat(1) + "-"}
-  1/2 cup (50g) shredded cheese${`<br>`.repeat(1) + "-"}
-  1/4 cup (60g) sour cream${`<br>`.repeat(1) + "-"}
-  Salsa or hot sauce (optional)${`<br>`.repeat(1) + "-"}
-  Guacamole (optional)${`<br>`.repeat(1) + "-"}
-  Chopped cilantro (optional)${`<br>`.repeat(1) + "-"}
-  Lime wedges (optional)${`<br>`.repeat(3) + "■"}
-  Instructions:${`<br>`.repeat(2)}
-  ${"1 - "}In a skillet, cook the 250g ground beef or chicken over medium heat until browned. Drain any excess fat.
-  ${
-    `<br>`.repeat(1) + "2 - "
-  }Add the entire packet (about 30g) of taco seasoning and stir to coat the meat evenly. Cook for a few minutes until the seasoning is well incorporated.
-  ${
-    `<br>`.repeat(1) + "3 - "
-  }Warm the taco shells or tortillas in the oven or on a stovetop skillet.
-  ${
-    `<br>`.repeat(1) + "4 - "
-  }Assemble the tacos by placing approximately 50g (a spoonful) of the cooked meat in each shell or tortilla.
-  ${
-    `<br>`.repeat(1) + "5 - "
-  }Top with approximately 100g (1 cup) of shredded lettuce, 75g (1/2 cup) of diced tomatoes, 50g (1/2 cup) of shredded cheese, 60g (1/4 cup) of sour cream, and any optional toppings like salsa or hot sauce, guacamole, chopped cilantro, and a squeeze of lime juice.
-  ${`<br>`.repeat(1) + "6 - "}Serve immediately and enjoy your delicious tacos!${`<br>`.repeat(3)}`;
-}
-
 // --------------------- End --------------------- //

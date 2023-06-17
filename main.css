@@ -47,7 +47,7 @@ header {
 }
 
 h1 {
-  width: 500px;
+  width: 800px;
   margin: 20px auto;
   font-family: titles;
   font-size: 80px;
@@ -239,16 +239,5 @@ h2 {
 
   .back-button {
     margin-top: 10px;
-  }
-
-  .recipe {
-    max-width: 90%;
-    font-size: 16px;
-    margin-top: auto;
-    margin-bottom: 20px;
-  }
-
-  .recipeButton {
-    font-size: 18px;
   }
 }
