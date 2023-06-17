@@ -232,6 +232,46 @@ ${"<br>".repeat(2)}Best regards,${"<br>".repeat(2)}
   ${"<br>".repeat(2)}Best regards,${"<br>".repeat(2)}
   
   [Your Name]`,
+  host_initiating_RC_with_guest: `Hello [Host's Name],${"<br>".repeat(2)}
+
+  We hope this message finds you well. We wanted to update you regarding the resolution of the issue related to the reservation with the guest. We appreciate your patience and understanding throughout this process.
+  
+  We would like to inform you that we have reached out to the guest regarding the requested amount and are currently in the process of mediating the situation. Our priority is to ensure a fair and satisfactory resolution for both parties involved.
+  
+  For more information about our refund and resolution process, we recommend reviewing our Resolution Center, which provides a dedicated platform for managing and resolving issues between hosts and guests. You can access the Resolution Center by visiting:
+  
+  ${"<br>".repeat(2)}https://www.airbnb.com/resolutions${"<br>".repeat(2)} 
+  
+  Once we receive a response from the guest, we will promptly provide you with an update. We understand the importance of timely communication and will strive to keep you informed every step of the way.
+  
+  ${"<br>".repeat(
+    2
+  )}If you have any further questions or concerns, please do not hesitate to reach out to us. We are here to support you and address any additional information you may require.
+  
+  Thank you for your cooperation and understanding in this matter. We will be in touch with you soon with further updates.
+  
+  ${"<br>".repeat(2)}Best regards,${"<br>".repeat(2)}
+  
+  [Your Name]`,
+  host_RC_guest_declined_refund: `Hello [Host's Name],${"<br>".repeat(2)}
+
+  We hope this message finds you well. We wanted to provide you with an update regarding the resolution of the issue related to your request. We understand that you were seeking approval from the guest, but unfortunately, the guest did not approve the request.
+  
+  We empathize with your situation and understand that this outcome may be disappointing. However, without the guest's approval, we are unable to proceed with charging them for the requested expenses.
+  
+  We want to assure you that we have made every effort to mediate the situation and reach a fair resolution. Our goal is to ensure that both hosts and guests have a positive experience on our platform. In this particular case, the guest's approval is essential for us to move forward with any financial transactions.
+  
+  We regret to inform you that we are unable to cover the expenses from your request. We sincerely apologize for any inconvenience this may cause you.
+  
+  ${"<br>".repeat(
+    2
+  )}If you have any further questions or concerns, please do not hesitate to reach out to us. We are here to support you and provide any additional information you may need.
+  
+  Thank you for your understanding in this matter. We appreciate your cooperation and look forward to assisting you with any future inquiries or requests.
+  
+  ${"<br>".repeat(2)}Best regards,${"<br>".repeat(2)}
+  
+  [Your Name]`,
 };
 
 // --------------------- Guest Macros --------------------- //
