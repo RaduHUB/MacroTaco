@@ -1,0 +1,247 @@
+/*__  __                   _______              
+ |  \/  |                 |__   __|             
+ | \  / | __ _  ___ _ __ ___ | | __ _  ___ ___  
+ | |\/| |/ _` |/ __| '__/ _ \| |/ _` |/ __/ _ \ 
+ | |  | | (_| | (__| | | (_) | | (_| | (_| (_) |
+ |_|  |_|\__,_|\___|_|  \___/|_|\__,_|\___\___/ 
+ */
+
+@font-face {
+  font-family: "font";
+  src: url("./Pangolin-Regular.ttf");
+}
+
+* {
+  font-family: font;
+}
+
+body {
+  background-color: #5b63b7;
+  color: #333;
+  font-family: Arial, sans-serif;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: #5b63b7;
+  padding: 20px;
+  font-size: 30px;
+  color: yellow;
+  text-shadow: 2px 2px 1px black;
+}
+
+h1 {
+  width: 500px;
+  margin: 20px auto;
+  animation: coolEffect 5s infinite alternate;
+}
+
+@keyframes coolEffect {
+  0% {
+    transform: scale(1);
+  }
+  50% {
+    transform: scale(1.2);
+  }
+  100% {
+    transform: scale(1);
+  }
+}
+
+p,
+label {
+  color: yellow;
+}
+
+p {
+  margin: 20px auto;
+  max-width: 650px;
+}
+
+a {
+  color: white;
+}
+
+main {
+  padding: 20px;
+}
+
+.search-container {
+  margin-bottom: 20px;
+}
+
+input[type="text"] {
+  padding: 8px;
+  font-size: 16px;
+  border-radius: 10px;
+  border: 2px solid black;
+  transition: box-shadow 0.3s;
+  outline: none;
+}
+
+input:hover,
+input:focus {
+  box-shadow: 0 0 5px 2px yellow;
+}
+
+button {
+  padding: 8px 16px;
+  font-size: 16px;
+  background-color: #2196f3;
+  color: yellow;
+  border: none;
+  cursor: pointer;
+  border-radius: 10px;
+  transition: box-shadow 0.3s;
+  margin: auto 10px;
+}
+
+button:hover {
+  box-shadow: 0 0 10px 2px #2196f3;
+}
+
+.results-container {
+  margin-bottom: 40px;
+}
+
+h2 {
+  color: yellow;
+}
+
+.results-container div {
+  background-color: yellow;
+  padding: 10px;
+  margin: 10px auto;
+  max-width: 400px;
+  text-align: left;
+  border-radius: 10px;
+  border: 3px solid black;
+  color: black;
+}
+
+/* Additional Styles */
+
+.results-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 150px;
+}
+
+.key-results {
+  text-align: left;
+  max-width: 400px;
+  margin: 0 auto;
+  padding: 10px;
+  border-radius: 10px;
+  background-color: white;
+  border: 3px solid black;
+}
+
+.key-results div {
+  margin-bottom: 10px;
+  cursor: pointer;
+}
+
+.key-results div:hover {
+  background-color: #f7f7f7;
+}
+
+.key-results div:first-child {
+  margin-top: 10px;
+}
+
+.value-results {
+  margin-top: 20px;
+  text-align: left;
+  max-width: 400px;
+  margin: 0 auto;
+  padding: 10px;
+  border-radius: 10px;
+  background-color: white;
+  border: 3px solid black;
+}
+
+.back-button {
+  margin-top: 20px;
+  cursor: pointer;
+  color: #2196f3;
+}
+
+.back-button:hover {
+  text-decoration: underline;
+}
+
+.recipe {
+  max-width: 500px;
+  margin: 20px auto;
+  margin-top: auto;
+  margin-bottom: 20px;
+}
+
+.recipeButton {
+  color: white;
+  font-size: 20px;
+  cursor: pointer;
+  transition: 2s;
+}
+
+.recipeButton:hover {
+  color: red;
+}
+
+/* Styles for mobile devices */
+@media (max-width: 600px) {
+  header {
+    font-size: 24px;
+  }
+
+  h1 {
+    width: 90%;
+    font-size: 24px;
+  }
+
+  p {
+    max-width: 90%;
+    font-size: 16px;
+  }
+
+  .search-container {
+    margin-bottom: 10px;
+  }
+
+  input[type="text"] {
+    font-size: 14px;
+  }
+
+  button {
+    font-size: 14px;
+  }
+
+  .results-container {
+    margin-bottom: 20px;
+  }
+
+  .key-results,
+  .value-results {
+    max-width: 90%;
+    font-size: 14px;
+  }
+
+  .back-button {
+    margin-top: 10px;
+  }
+
+  .recipe {
+    max-width: 90%;
+    font-size: 16px;
+    margin-top: auto;
+    margin-bottom: 20px;
+  }
+
+  .recipeButton {
+    font-size: 18px;
+  }
+}
