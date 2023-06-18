@@ -60,7 +60,9 @@ After careful consideration and review of our content policy, we regret to infor
 
 We value your commitment to providing exceptional hospitality and understand that receiving negative feedback can be challenging. We encourage you to respond to the review in a professional and courteous manner, addressing any concerns raised and providing your perspective on the matter.
 
-Guest reviews play a crucial role in maintaining the trust and transparency within our community. They provide valuable insights for future guests when making booking decisions and help in fostering open communication between hosts and guests.
+Guest reviews play a crucial role in maintaining the trust and transparency within our community. They provide valuable insights for future guests when making booking decisions and help in fostering open communication between hosts and guests.${"<br>".repeat(
+    2
+  )}
 
 We appreciate your understanding in this matter. If you have any further questions or need additional assistance, please do not hesitate to reach out to us. We are here to support you and ensure a transparent and fair hosting experience for all.
 
@@ -83,7 +85,9 @@ We hope this message finds you well. We would like to inform you that we have re
 
 At Airbnb, we strive to maintain a respectful and inclusive community where all members feel safe and valued. Our Content Policy outlines guidelines and standards that we expect all users to adhere to when sharing their experiences and feedback.
 
-We understand that everyone has their own opinions and experiences, but it is essential to express them in a manner that aligns with our community guidelines. Unfortunately, your review did not meet these criteria, and therefore, we have taken the necessary steps to remove it.
+We understand that everyone has their own opinions and experiences, but it is essential to express them in a manner that aligns with our community guidelines. Unfortunately, your review did not meet these criteria, and therefore, we have taken the necessary steps to remove it.${"<br>".repeat(
+    2
+  )}
 
 We value your participation in our community and appreciate your understanding and cooperation in upholding our Content Policy. Should you have any questions or require further clarification, please do not hesitate to reach out to us. We are here to assist you. Also, you can find more information about this matter in this link:
 
@@ -104,7 +108,9 @@ Thank you for reaching out to Airbnb regarding your request to delete a review. 
 
 At Airbnb, we strive to maintain the authenticity and transparency of our review system. Reviews play a crucial role in helping our community make informed decisions. As a result, we have established clear guidelines and policies to ensure fairness and integrity.
 
-Unless a review violates our Content Policy, we are unable to delete it. Our Content Policy prohibits certain types of content, such as hate speech, discrimination, or fraudulent activities. If the review aligns with our guidelines, it will remain visible on the platform.
+Unless a review violates our Content Policy, we are unable to delete it. Our Content Policy prohibits certain types of content, such as hate speech, discrimination, or fraudulent activities. If the review aligns with our guidelines, it will remain visible on the platform.${"<br>".repeat(
+    2
+  )}
 
 We understand that receiving a review that you disagree with can be disappointing. However, we encourage you to approach the situation constructively. Engaging in open and respectful communication allows you to share your perspective and address any concerns raised by the reviewer.
 
@@ -153,7 +159,9 @@ ${"<br>".repeat(2)}Best regards,${"<br>".repeat(2)}
 
 We hope this message finds you well. We are reaching out to inform you that we have initiated the cancellation of the reservation made under your name. As per our policy, penalties will be applied, and the guest will be fully refunded. However, we would like to offer you a 7-day window to provide us with any relevant documentation or evidence that may support your case.
 
-During this period, we kindly request that you submit the necessary documentation to help us assess if your situation falls under our Extenuating Circumstance Policy. If the provided documentation demonstrates that your circumstances meet the criteria outlined in the policy, we will waive the penalties associated with the cancellation.
+During this period, we kindly request that you submit the necessary documentation to help us assess if your situation falls under our Extenuating Circumstance Policy. If the provided documentation demonstrates that your circumstances meet the criteria outlined in the policy, we will waive the penalties associated with the cancellation.${"<br>".repeat(
+    2
+  )}
 
 We understand that unexpected situations can arise, and we want to ensure fairness and flexibility in our decision-making process. Therefore, we encourage you to gather the required documentation and submit it within the specified timeframe. This will allow us to thoroughly review your case and make a fair determination.
 
@@ -183,7 +191,9 @@ ${"<br>".repeat(2)}Best regards,${"<br>".repeat(2)}
 
   We hope this message finds you well. We would like to inform you that we have reviewed the documentation you provided regarding the circumstances surrounding the cancellation of the reservation made under your name. We understand that you were facing challenging circumstances, and we empathize with your situation.
   
-  However, after careful assessment, we regret to inform you that the documentation provided does not meet the criteria outlined in our Extenuating Circumstance Policy. We understand that this may be disappointing news, and we apologize for any inconvenience caused.
+  However, after careful assessment, we regret to inform you that the documentation provided does not meet the criteria outlined in our Extenuating Circumstance Policy. We understand that this may be disappointing news, and we apologize for any inconvenience caused.${"<br>".repeat(
+    2
+  )}
   
   We appreciate your understanding and cooperation throughout this process. We strive to maintain a fair and consistent policy for all our hosts and guests. If you have any further questions or concerns, please feel free to reach out to us. We are here to assist you and provide any additional information you may need.
   
@@ -219,7 +229,9 @@ ${"<br>".repeat(2)}Best regards,${"<br>".repeat(2)}
 
   We hope this message finds you well. We wanted to inform you that your reservation with your guest has been restricted due to a series of patterns that triggered our restriction system. We understand that this news may come as a disappointment, and we empathize with any inconvenience this may cause.
   
-  The restriction has been put in place to ensure the safety and well-being of both hosts and guests. It is designed to prevent events such as parties and other disruptive activities from taking place in your listing. We understand that the majority of our hosts and guests appreciate a peaceful and respectful environment.
+  The restriction has been put in place to ensure the safety and well-being of both hosts and guests. It is designed to prevent events such as parties and other disruptive activities from taking place in your listing. We understand that the majority of our hosts and guests appreciate a peaceful and respectful environment.${"<br>".repeat(
+    2
+  )}
   
   Unfortunately, in this case, the restriction cannot be waived. We take these matters seriously in order to maintain a positive hosting community for all our members. We apologize for any inconvenience this may cause you and appreciate your understanding in this matter.
   
@@ -238,7 +250,13 @@ ${"<br>".repeat(2)}Best regards,${"<br>".repeat(2)}
   
   We would like to inform you that we have reached out to the guest regarding the requested amount and are currently in the process of mediating the situation. Our priority is to ensure a fair and satisfactory resolution for both parties involved.
   
-  For more information about our refund and resolution process, we recommend reviewing our Resolution Center, which provides a dedicated platform for managing and resolving issues between hosts and guests. You can access the Resolution Center by visiting:
+  For more information about our refund and resolution process, we recommend reviewing our Resolution Center, which provides a dedicated platform for managing and resolving issues between hosts and guests:${"<br>".repeat(
+    2
+  )}
+  
+  https://www.airbnb.com/help/article/767${"<br>".repeat(2)}
+  
+  You can access the Resolution Center by visiting:
   
   ${"<br>".repeat(2)}https://www.airbnb.com/resolutions${"<br>".repeat(2)} 
   
@@ -253,7 +271,7 @@ ${"<br>".repeat(2)}Best regards,${"<br>".repeat(2)}
   ${"<br>".repeat(2)}Best regards,${"<br>".repeat(2)}
   
   [Your Name]`,
-  host_RC_guest_declined_refund: `Hello [Host's Name],${"<br>".repeat(2)}
+  host_RC_guest_declined_payment: `Hello [Host's Name],${"<br>".repeat(2)}
 
   We hope this message finds you well. We wanted to provide you with an update regarding the resolution of the issue related to your request. We understand that you were seeking approval from the guest, but unfortunately, the guest did not approve the request.
   
@@ -310,6 +328,40 @@ ${"<br>".repeat(2)}Best regards,${"<br>".repeat(2)}
   Best regards,${"<br>".repeat(2)}
   
   [Your Name]`,
+  host_RC_asking_for_money: `Hello [Host's Name],${"<br>".repeat(2)}
+
+  I hope this message finds you well. I wanted to reach out to discuss a matter concerning a reservation with one of our guests. Due to unforeseen circumstances, the guest is requesting a refund beyond the scope of our standard Cancellation Policy.
+  
+  While our Cancellation Policy typically outlines the refund amount, we understand that there are situations where hosts choose to go above and beyond to ensure exceptional service within our hosting community. Many hosts in similar situations have opted to provide a full refund to the guest as a gesture of goodwill and to maintain a positive experience for all involved.
+  
+  We kindly request your consideration in providing a refund to the guest in this particular case. Your understanding and support would greatly contribute to fostering a welcoming and supportive environment within our community.${"<br>".repeat(
+    2
+  )}
+  
+  If you have any questions or concerns, please don't hesitate to reach out. We appreciate your attention to this matter and value your contribution to our hosting community.
+  
+  Thank you for your understanding and cooperation.${"<br>".repeat(2)}
+  
+  Best regards,${"<br>".repeat(2)}
+  
+  [Your Name]`,
+  host_RC_asking_for_money_2nd_attempt: `Hello [Host's Name],${"<br>".repeat(2)}
+
+  I hope this message finds you well. I wanted to follow up on our previous discussion regarding the guest's refund request for their reservation. We understand that providing a full refund may not be feasible for you at this time. However, we kindly request your consideration in providing a partial refund as a gesture of goodwill.
+  
+  We acknowledge that hosting can sometimes come with unexpected circumstances, and we greatly appreciate your understanding in navigating this situation. By offering a partial refund, you can still contribute to ensuring a positive experience for the guest while also considering your own hosting commitments.${"<br>".repeat(
+    2
+  )}
+  
+  If you have any questions or concerns about the refund amount or need further clarification, please don't hesitate to let us know. We are here to assist you and address any inquiries you may have.
+  
+  Thank you for your attention to this matter and for being an integral part of our hosting community. Your willingness to find a fair resolution is greatly appreciated.${"<br>".repeat(
+    2
+  )}
+  
+  Best regards,${"<br>".repeat(2)}
+  
+  [Your Name]`,
 };
 
 // --------------------- Guest Macros --------------------- //
@@ -331,7 +383,9 @@ ${"<br>".repeat(
   
 After careful consideration and review of our content policy, we regret to inform you that we are unable to delete the review in question. While we understand your perspective and the impact this review may have, it does not violate our Content Policy, and we must maintain a fair and consistent approach to all guest reviews.
   
-We value your feedback and understand the importance of creating a positive experience for all our users. We encourage you to continue engaging in open and constructive dialogue with the host to address any concerns or issues that may have arisen during your stay.
+We value your feedback and understand the importance of creating a positive experience for all our users. We encourage you to continue engaging in open and constructive dialogue with the host to address any concerns or issues that may have arisen during your stay.${"<br>".repeat(
+    2
+  )}
   
 We appreciate your understanding in this matter. If you have any further questions or need additional assistance, please do not hesitate to reach out to us. We are here to support you and ensure a transparent and fair hosting experience for all.
   
@@ -355,7 +409,9 @@ We hope this message finds you well. We would like to inform you that we have re
   
 At Airbnb, we strive to maintain a respectful and inclusive community where all members feel safe and valued. Our Content Policy outlines guidelines and standards that we expect all users to adhere to when sharing their experiences and feedback.
   
-We understand that everyone has their own opinions and experiences, but it is essential to express them in a manner that aligns with our community guidelines. Unfortunately, your review did not meet these criteria, and therefore, we have taken the necessary steps to remove it.
+We understand that everyone has their own opinions and experiences, but it is essential to express them in a manner that aligns with our community guidelines. Unfortunately, your review did not meet these criteria, and therefore, we have taken the necessary steps to remove it.${"<br>".repeat(
+    2
+  )}
   
 We value your participation in our community and appreciate your understanding and cooperation in upholding our Content Policy. Should you have any questions or require further clarification, please do not hesitate to reach out to us. We are here to assist you. Also, you can find more information about this matter in this link:
   
@@ -372,7 +428,9 @@ Thank you for reaching out to Airbnb regarding your request to delete a review. 
 
 At Airbnb, we strive to maintain the authenticity and transparency of our review system. Reviews play a crucial role in helping our community make informed decisions. As a result, we have established clear guidelines and policies to ensure fairness and integrity.
 
-Unless a review violates our Content Policy, we are unable to delete it. Our Content Policy prohibits certain types of content, such as hate speech, discrimination, or fraudulent activities. If the review aligns with our guidelines, it will remain visible on the platform.
+Unless a review violates our Content Policy, we are unable to delete it. Our Content Policy prohibits certain types of content, such as hate speech, discrimination, or fraudulent activities. If the review aligns with our guidelines, it will remain visible on the platform.${"<br>".repeat(
+    2
+  )}
 
 We understand that receiving a review that you disagree with can be disappointing. However, we encourage you to approach the situation constructively. Engaging in open and respectful communication allows you to share your perspective and address any concerns raised by the reviewer.
 
@@ -474,7 +532,9 @@ ${"<br>".repeat(2)}Best regards,${"<br>".repeat(2)}
 
 We hope this message finds you well. We wanted to inform you that your reservation has been restricted due to a series of patterns that our system has identified. These patterns have triggered the restriction as a preventive measure to avoid events such as parties and maintain a safe and respectful environment for both hosts and guests. We understand that this news may come as a disappointment, and we empathize with any inconvenience this may cause.
 
-Unfortunately, we are unable to remove this restriction at this time. It is in place to ensure the overall safety and comfort of our hosting community. We apologize for any frustration or inconvenience this may cause you.
+Unfortunately, we are unable to remove this restriction at this time. It is in place to ensure the overall safety and comfort of our hosting community. We apologize for any frustration or inconvenience this may cause you.${"<br>".repeat(
+    2
+  )}
 
 However, please note that you are still able to book private rooms and hotel rooms within our platform. We encourage you to explore these options for your accommodation needs. Our hosts and hotels provide a variety of comfortable and welcoming spaces for you to enjoy during your stay.
 
@@ -487,6 +547,92 @@ Thank you for your understanding and cooperation.
 ${"<br>".repeat(2)}Best regards,${"<br>".repeat(2)}
 
 [Your Name]`,
+  guest_initiating_RC_with_host: `Hello [Guest's Name],${"<br>".repeat(2)}
+
+We sincerely apologize for the frustration and inconvenience you have experienced regarding your reservation. We understand your disappointment, and we want to assure you that we are here to support you in resolving this matter.
+
+We want to inform you that we will be reaching out to the host on your behalf to mediate and discuss the possibility of a refund. Please understand that the final decision regarding the refund lies with the host, as they have control over the reservation details and financial matters.${"<br>".repeat(
+    2
+  )}
+
+Our team will make every effort to advocate for a fair resolution and work towards finding a suitable outcome. We appreciate your patience and understanding during this process, and we will keep you informed of any progress or updates. For more information about our refund and resolution process, we recommend reviewing our Resolution Center, which provides a dedicated platform for managing and resolving issues between hosts and guests:${"<br>".repeat(
+    2
+  )}
+
+https://www.airbnb.com/help/article/767${"<br>".repeat(2)}
+
+You can access the Resolution Center by visiting:${"<br>".repeat(2)}
+
+https://www.airbnb.com/resolutions${"<br>".repeat(2)}
+
+If you have any additional information or details that you believe would be helpful for us in mediating this situation, please do not hesitate to share them with us. Your input is valuable in facilitating effective communication between you and the host.
+
+Thank you for your cooperation and for being a valued member of our community. We are committed to resolving this matter as quickly and fairly as possible.${"<br>".repeat(
+    2
+  )}
+
+Best regards,${"<br>".repeat(2)}
+
+[Your Name]`,
+  guest_RC_host_declined_refund: `Hello [Guest's Name],${"<br>".repeat(2)}
+
+  We hope this message finds you well. We wanted to provide you with an update regarding the refund request for your reservation. We regret to inform you that the host has denied the refund.
+  
+  We understand that this news may be disappointing and frustrating for you, especially when you had anticipated a different outcome. We empathize with your situation, and we apologize for any inconvenience or dissatisfaction this may have caused.
+  
+  Please know that we did our best to mediate and advocate for a fair resolution on your behalf. However, as the final decision regarding refunds rests with the host, we are unable to enforce a refund without their approval.${"<br>".repeat(
+    2
+  )}
+  
+  We understand that this may not be the resolution you were hoping for, and we regret any disappointment this may have caused. If you have any further questions or concerns, please do not hesitate to reach out to us. We are here to support you and provide any additional information or assistance you may need.
+  
+  Thank you for your understanding and cooperation throughout this process. We appreciate your patience and will continue to work diligently to assist you with any future inquiries or concerns.${"<br>".repeat(
+    2
+  )}
+  
+  Best regards,${"<br>".repeat(2)}
+  
+  [Your Name]`,
+  guest_RC_host_approves_partial_refund: `Hello [Guest's Name],${"<br>".repeat(2)}
+
+  We hope this message finds you well. We wanted to provide you with an update regarding the resolution of your refund request. Unfortunately, the host has only approved a partial refund.
+  
+  We understand that this may not be the outcome you were hoping for, and we sincerely apologize for any inconvenience or frustration it may have caused. We want to assure you that we did our best to advocate for a fair resolution on your behalf.
+  
+  Please know that we made every effort to mediate the situation and encourage the host to provide a full refund. However, the final decision regarding the refund amount lies with the host, as they have control over the reservation details and financial matters.${"<br>".repeat(
+    2
+  )}
+  
+  We regret any disappointment or inconvenience this may have caused you. If you have any further questions or concerns, please do not hesitate to reach out to us. We are here to support you and provide any additional assistance or guidance you may need.
+  
+  Thank you for your understanding and cooperation throughout this process. We value your feedback and will continue to work diligently to assist you with any remaining issues or concerns.${"<br>".repeat(
+    2
+  )}
+  
+  Best regards,${"<br>".repeat(2)}
+  
+  [Your Name]`,
+  guest_RC_unhappy_outcome: `Hello [Guest's Name],${"<br>".repeat(2)}
+
+  We hope this message finds you well. We wanted to express our sincere apologies for the outcome of the situation. We understand that this may not be the outcome you were expecting, and we empathize with any disappointment or frustration it may have caused.
+  
+  Please know that we genuinely did our best to mediate and find a fair resolution. We value your feedback and understand that you may have opinions or suggestions regarding our policies. We encourage you to share your thoughts and opinions by visiting our help article on providing feedback:${"<br>".repeat(
+    2
+  )}
+  
+  https://www.airbnb.com/help/article/1640${"<br>".repeat(2)}
+  
+  Your feedback is important to us as it helps us improve and enhance our services. We appreciate your willingness to share your perspective with us.
+  
+  If you have any further questions or concerns, please do not hesitate to reach out to us. We are here to support you and provide any additional assistance you may require.
+  
+  Thank you for your understanding, and we apologize once again for any inconvenience caused. We value your feedback and appreciate your cooperation.
+  ${"<br>".repeat(2)}
+  Best regards,${"<br>".repeat(2)}
+  
+  [Your Name]`,
+  guest_RC_asking_for_money: ``,
+  guest_RC_asking_for_money_2nd_attempt: ``,
 };
 
 let keyResults = []; // Array to store key results
