@@ -328,7 +328,7 @@ ${"<br>".repeat(2)}Best regards,${"<br>".repeat(2)}
   Best regards,${"<br>".repeat(2)}
   
   [Your Name]`,
-  host_RC_asking_for_money: `Hello [Host's Name],${"<br>".repeat(2)}
+  host_RC_asking_for_refund: `Hello [Host's Name],${"<br>".repeat(2)}
 
   I hope this message finds you well. I wanted to reach out to discuss a matter concerning a reservation with one of our guests. Due to unforeseen circumstances, the guest is requesting a refund beyond the scope of our standard Cancellation Policy.
   
@@ -345,7 +345,7 @@ ${"<br>".repeat(2)}Best regards,${"<br>".repeat(2)}
   Best regards,${"<br>".repeat(2)}
   
   [Your Name]`,
-  host_RC_asking_for_money_2nd_attempt: `Hello [Host's Name],${"<br>".repeat(2)}
+  host_RC_asking_for_refund_2nd_attempt: `Hello [Host's Name],${"<br>".repeat(2)}
 
   I hope this message finds you well. I wanted to follow up on our previous discussion regarding the guest's refund request for their reservation. We understand that providing a full refund may not be feasible for you at this time. However, we kindly request your consideration in providing a partial refund as a gesture of goodwill.
   
@@ -631,8 +631,136 @@ Best regards,${"<br>".repeat(2)}
   Best regards,${"<br>".repeat(2)}
   
   [Your Name]`,
-  guest_RC_asking_for_money: ``,
-  guest_RC_asking_for_money_2nd_attempt: ``,
+  guest_RC_asking_for_payment: `Hello [Guest's Name],${"<br>".repeat(2)}
+
+  I hope this message finds you well. I'm reaching out to you on behalf of your host, [Host's Name]. They have requested an additional payment through our Resolution Center for your reservation.
+  
+  We understand that there may have been a situation during your stay that could have resulted in additional costs. We kindly request your cooperation in resolving this matter. If you agree with the allegation and are willing to take responsibility, we kindly ask you to make the payment or approve us to process it on your behalf.
+  
+  To proceed with the resolution process, you have two options:${"<br>".repeat(2)}
+  
+  1. You can make the payment directly through our secure Resolution Center. Please follow this link to complete the payment:${"<br>".repeat(
+    2
+  )} 
+  
+  https://www.airbnb.com/resolutions${"<br>".repeat(2)}
+  
+  This option allows you to securely process the payment on your own.${"<br>".repeat(2)}
+  
+  2. If you agree with the situation described and would like us to process the payment on your behalf, please provide us with your confirmation, and we will ensure that the transaction is processed securely and promptly.${"<br>".repeat(
+    2
+  )}
+  
+  If you have any questions or need clarification about the situation or the resolution process, please do not hesitate to reach out to us. We are here to guide you and provide any necessary support.${"<br>".repeat(
+    2
+  )}
+  
+  Thank you for your attention to this matter. We appreciate your cooperation and look forward to resolving this issue amicably.${"<br>".repeat(
+    2
+  )}
+  
+  Best regards,${"<br>".repeat(2)}
+  
+  [Your Name]`,
+  guest_RC_asking_for_payment_2nd_attempt: `Hello [Guest's Name],${"<br>".repeat(2)}
+
+  We understand that you may not agree with the request for a full payment, and we respect your perspective. We acknowledge that finding a middle ground can often lead to a satisfactory resolution for both parties involved.
+  
+  Considering this, we would like to propose the possibility of a partial payment to address the situation. We believe that reaching a mutually acceptable resolution is important, and we encourage open communication to find a fair outcome that works for both you and your host.
+  
+  If you are open to discussing a partial payment as a compromise, we kindly request your input and suggest initiating a conversation with your host. This will allow you to engage in a constructive dialogue and explore potential alternatives that align with your respective needs and concerns.
+  
+  Should you require any assistance or guidance during this process, please do not hesitate to reach out to us. We are here to support you and facilitate communication between you and your host.${"<br>".repeat(
+    2
+  )}
+  
+  Thank you for your understanding and cooperation. We appreciate your willingness to find a resolution that benefits all parties involved.${"<br>".repeat(
+    2
+  )}
+  
+  Best regards,${"<br>".repeat(2)}
+  
+  [Your Name]`,
+  guest_AIR_COVER_asking_for_docu: `Hello [Guest's Name],${"<br>".repeat(2)}
+
+  Thank you for reaching out to us regarding your situation. In order for us to assess whether your circumstances fall within the coverage of our Aircover Policy, we kindly request that you provide us with documentation or evidence related to your claim.
+  
+  Documentation plays a crucial role in helping us understand and evaluate the nature and impact of the situation you have encountered. It allows us to make an informed decision and ensure a fair resolution process.
+  
+  We assure you that all information you provide will be treated with the utmost confidentiality and used solely for the purpose of assessing your situation and providing appropriate assistance.${"<br>".repeat(
+    2
+  )}
+  
+  If you have any questions or require guidance on what specific documentation to provide, please do not hesitate to contact us. We are here to support you throughout this process and make it as smooth as possible.
+  
+  Thank you for your cooperation and understanding. We appreciate your prompt attention to this matter.${"<br>".repeat(
+    2
+  )}
+  
+  Best regards,${"<br>".repeat(2)}
+  
+  [Your Name]`,
+  guest_AIR_COVER_invalid_docu: `Hello [Guest's Name],${"<br>".repeat(2)}
+
+  Thank you for providing the documentation regarding your situation. We have carefully reviewed the information you shared; however, we regret to inform you that the documentation provided is either not valid or insufficient to determine if your situation falls within the coverage of our Aircover Policy.${"<br>".repeat(
+    2
+  )}
+  
+  We understand that this may be disappointing news, and we empathize with any challenges you may be facing. Our policy requires valid and substantial documentation to ensure fairness and consistency in assessing claims.
+  
+  If you have any additional information or alternative documentation that you believe could support your claim, we encourage you to provide it to us as soon as possible. This will allow us to reassess your situation and determine if further action can be taken.
+  
+  We apologize for any inconvenience this may cause, and we appreciate your understanding. Should you have any further questions or concerns, please do not hesitate to reach out to us. We are here to assist you to the best of our abilities.${"<br>".repeat(
+    2
+  )}
+  
+  Thank you for your cooperation.${"<br>".repeat(2)}
+  
+  Best regards,${"<br>".repeat(2)}
+  
+  [Your Name]`,
+  guest_AIR_COVER_invalid: `Hello [Guest's Name],${"<br>".repeat(2)}
+
+  Thank you for bringing your question to our attention. We have carefully reviewed your situation in light of our Aircover Policy, specifically the information provided in this article:${"<br>".repeat(
+    2
+  )}
+  
+  https://www.airbnb.com/help/article/3218${"<br>".repeat(2)}
+  
+  After careful consideration, we regret to inform you that your specific circumstances do not fall within the coverage of our Aircover Policy. The policy is designed to address certain unforeseen events or circumstances that may impact your trip, and we understand that it can be disappointing when your situation does not meet the criteria.${"<br>".repeat(
+    2
+  )}
+  
+  We encourage you to review the Aircover Policy article thoroughly to understand the scope and limitations of coverage provided. While we sympathize with any difficulties you may be facing, it is essential for us to adhere to the policy guidelines to ensure fairness and consistency for all guests and hosts on our platform.
+  
+  If you have any further questions or concerns regarding the policy or your specific situation, please do not hesitate to reach out to us. We are here to provide further clarification and support to the best of our abilities.
+  
+  Thank you for your understanding, and we appreciate your continued trust in Airbnb.${"<br>".repeat(
+    2
+  )}
+  
+  Best regards,${"<br>".repeat(2)}
+  
+  [Your Name]`,
+  guest_AIR_COVER_valid: `Hello [Guest's Name],${"<br>".repeat(2)}
+
+  We have reviewed your situation carefully and we are pleased to inform you that your specific circumstances are covered by our Aircover Policy. We understand the importance of providing support during unforeseen events or circumstances that may impact your trip.
+  
+  Rest assured, we will take immediate action to assist you. We will contact your host right away to discuss your situation and work towards a resolution. Our priority is to ensure that you have a positive and enjoyable experience during your stay.
+  
+  If you have any additional information or details that you would like us to consider while communicating with the host, please let us know. Your input is valuable in helping us advocate for you effectively.${"<br>".repeat(
+    2
+  )}
+  
+  We appreciate your understanding and cooperation throughout this process. Should you have any further questions or concerns, please do not hesitate to reach out to us. We are here to support you every step of the way.
+  
+  Thank you for choosing Airbnb, and we look forward to resolving this matter in a satisfactory manner.${"<br>".repeat(
+    2
+  )}
+  
+  Best regards,${"<br>".repeat(2)}
+  
+  [Your Name]`,
 };
 
 let keyResults = []; // Array to store key results
