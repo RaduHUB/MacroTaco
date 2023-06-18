@@ -489,7 +489,6 @@ ${"<br>".repeat(2)}Best regards,${"<br>".repeat(2)}
 [Your Name]`,
 };
 
-let counter = 0;
 let keyResults = []; // Array to store key results
 
 // --------------------- Result Logic --------------------- //
@@ -558,7 +557,7 @@ function searchHost() {
   if (searchTerm === "all") {
     keyResults = Object.keys(host);
   } else if (searchTerm.split(" ").length > 1) {
-    keyResults.push(`In the name of all 🌮, use one key-word!`);
+    keyResults.push(`In the name of all 🌮, use one keyword!`);
   } else {
     if (searchTerm === "marco") {
       keyResults.push(`Polo!`);
@@ -600,7 +599,7 @@ function searchGuest() {
   if (searchTerm === "all") {
     keyResults = Object.keys(guest);
   } else if (searchTerm.split(" ").length > 1) {
-    keyResults.push(`In the name of all 🌮, use one key-word!`);
+    keyResults.push(`In the name of all 🌮, use one keyword!`);
   } else {
     if (searchTerm === "marco") {
       keyResults.push(`Polo!`);
