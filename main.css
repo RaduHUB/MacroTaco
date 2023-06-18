@@ -160,11 +160,6 @@ button:hover {
   margin-bottom: 40px;
 }
 
-h2 {
-  color: rgb(150, 110, 30);
-  cursor: default;
-}
-
 .results-container div {
   background-color: rgb(150, 110, 30);
   padding: 10px;

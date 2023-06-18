@@ -490,7 +490,6 @@ ${"<br>".repeat(2)}Best regards,${"<br>".repeat(2)}
 };
 
 let counter = 0;
-const heading = document.getElementById("coolHeading"); // MacroTaco Logo
 let keyResults = []; // Array to store key results
 
 // --------------------- Result Logic --------------------- //
@@ -559,7 +558,7 @@ function searchHost() {
   if (searchTerm === "all") {
     keyResults = Object.keys(host);
   } else if (searchTerm.split(" ").length > 1) {
-    keyResults.push(`Just use one keyword please!`);
+    keyResults.push(`In the name of all 🌮, use one key-word!`);
   } else {
     if (searchTerm === "marco") {
       keyResults.push(`Polo!`);
@@ -575,6 +574,8 @@ function searchHost() {
       keyResults.push(`Da-te-n Doba!`);
     } else if (searchTerm === "telus") {
       keyResults.push(`International!`);
+    } else if (searchTerm === "joke") {
+      keyResults.push(`Let's TAC ALL about your Macros!`);
     }
   }
 
@@ -585,8 +586,6 @@ function searchHost() {
   }
 
   displayKeyResults();
-  counter += 1;
-  console.log(`You have TACO-ed ${counter} times`);
 }
 
 // --------------------- Guest Search Logic --------------------- //
@@ -600,7 +599,7 @@ function searchGuest() {
   if (searchTerm === "all") {
     keyResults = Object.keys(guest);
   } else if (searchTerm.split(" ").length > 1) {
-    keyResults.push(`Just use one keyword please!`);
+    keyResults.push(`In the name of all 🌮, use one key-word!`);
   } else {
     if (searchTerm === "marco") {
       keyResults.push(`Polo!`);
@@ -616,6 +615,8 @@ function searchGuest() {
       keyResults.push(`Da-te-n Doba!`);
     } else if (searchTerm === "telus") {
       keyResults.push(`International!`);
+    } else if (searchTerm === "joke") {
+      keyResults.push(`Let's TAC ALL about your Macros!`);
     }
   }
 
@@ -626,8 +627,6 @@ function searchGuest() {
   }
 
   displayKeyResults();
-  counter += 1;
-  console.log(`You have TACO-ed ${counter} time/s`);
 }
 
 // --------------------- Reload Page Logic --------------------- //
