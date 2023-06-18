@@ -586,6 +586,7 @@ function searchHost() {
   }
 
   displayKeyResults();
+  console.log(`🌮`);
 }
 
 // --------------------- Guest Search Logic --------------------- //
@@ -627,6 +628,7 @@ function searchGuest() {
   }
 
   displayKeyResults();
+  console.log(`🌮`);
 }
 
 // --------------------- Reload Page Logic --------------------- //
