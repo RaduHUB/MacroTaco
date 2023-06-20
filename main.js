@@ -852,6 +852,7 @@ function searchHost() {
       keyResults.push(`Let's TAC ALL about your Macros!`);
     } else if (searchTerm === "claudia") {
       coolHeading.innerHTML = "Kids... Don't dye your hair.";
+      coolHeading.style.color = `blue`;
     }
   }
 
@@ -896,6 +897,7 @@ function searchGuest() {
       keyResults.push(`Let's TAC ALL about your Macros!`);
     } else if (searchTerm === "claudia") {
       coolHeading.innerHTML = "Kids... Don't dye your hair.";
+      coolHeading.style.color = `blue`;
     }
   }
 
