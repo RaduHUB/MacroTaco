@@ -850,6 +850,8 @@ function searchHost() {
       keyResults.push(`International!`);
     } else if (searchTerm === "joke") {
       keyResults.push(`Let's TAC ALL about your Macros!`);
+    } else if (searchTerm === "claudia") {
+      coolHeading.innerHTML = "Kids... Don't dye your hair.";
     }
   }
 
@@ -892,6 +894,8 @@ function searchGuest() {
       keyResults.push(`International!`);
     } else if (searchTerm === "joke") {
       keyResults.push(`Let's TAC ALL about your Macros!`);
+    } else if (searchTerm === "claudia") {
+      coolHeading.innerHTML = "Kids... Don't dye your hair.";
     }
   }
 
