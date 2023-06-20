@@ -363,6 +363,33 @@ ${"<br>".repeat(2)}Best regards,${"<br>".repeat(2)}
   Best regards,${"<br>".repeat(2)}
   
   [Your Name]`,
+  host_RC_HIW: `Hello [Host's Name],${"<br>".repeat(2)}
+
+  I hope this message finds you well. I wanted to take a moment to explain our Resolution Center and how it can assist in resolving any issues or disputes that may arise during a reservation. 
+  
+  The Resolution Center is a platform provided by Airbnb to facilitate communication and negotiation between hosts and guests when there is a disagreement or a need for reimbursement or resolution. It is designed to help parties find a fair and satisfactory resolution independently, with the option to involve Airbnb as a mediator if necessary.
+  
+  You can access the Resolution Center through your Airbnb account. Once there, you will be able to initiate or respond to a resolution request, communicate with the guest, and submit relevant documentation or evidence to support your case. It is important to provide clear and detailed information to ensure a comprehensive understanding of the situation.
+  
+  To familiarize yourself with the process and guidelines, I recommend reviewing the Resolution Center article, which can be found here:${"<br>".repeat(
+    2
+  )}
+    
+  https://www.airbnb.com/help/article/767 ${"<br>".repeat(2)}
+  
+  It provides detailed information on how to navigate the Resolution Center effectively, steps to take for resolution, and the overall process.
+  
+  Please remember that open and respectful communication is key when using the Resolution Center. By engaging in constructive dialogue, you can often reach a mutually agreeable solution that benefits both you and the guest.
+  
+  If you have any questions or require further assistance with the Resolution Center or any other aspect of your hosting experience, please don't hesitate to reach out to us. We are here to support you and ensure a smooth resolution process.
+  
+  Thank you for your attention, and we appreciate your commitment to providing excellent hosting experiences on Airbnb.${"<br>".repeat(
+    2
+  )}
+  
+  Best regards,${"<br>".repeat(2)}
+  
+  [Your Name]`,
 };
 
 // --------------------- Guest Macros --------------------- //
