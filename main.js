@@ -390,6 +390,27 @@ ${"<br>".repeat(2)}Best regards,${"<br>".repeat(2)}
   Best regards,${"<br>".repeat(2)}
   
   [Your Name]`,
+  host_asked_guest_to_cancel: `Hello [Host's Name],${"<br>".repeat(2)}
+
+  I hope this message finds you well. We recently received communication from the guest regarding your reservation. According to the guest, they have been asked by you to cancel the reservation.
+  
+  If this is indeed the case, we must inform you that it goes against our policies and guidelines. Airbnb encourages hosts to honor their confirmed reservations to maintain the trust and reliability of our platform.
+  
+  If we do not receive a response from you within the specified deadline, we will have no choice but to cancel the reservation on your behalf. Please note that in such circumstances, penalties will be applied as outlined in our penalties policy. You can find more information about these penalties by following this link:${"<br>".repeat(
+    2
+  )}
+  
+  https://www.airbnb.com/help/article/990${"<br>".repeat(2)}
+  
+  We understand that there may be unforeseen circumstances or exceptional situations that can arise. If you believe there is a valid reason for requesting the cancellation, we kindly ask that you provide us with a detailed explanation as soon as possible. We will review your case and take it into consideration before making any final decisions.
+    
+  If you have any questions or need further clarification, please do not hesitate to reach out to us. We are here to assist you.
+  
+  Thank you for your understanding.
+  
+  ${"<br>".repeat(2)}Best regards,${"<br>".repeat(2)}
+  
+  [Your Name]`,
 };
 
 // --------------------- Guest Macros --------------------- //
