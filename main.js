@@ -853,6 +853,7 @@ function searchHost() {
     } else if (searchTerm === "claudia") {
       coolHeading.innerHTML = "Kids... Don't dye your hair.";
       coolHeading.style.color = `blue`;
+      keyResults.push(`Mini Boss!`);
     }
   }
 
@@ -898,6 +899,7 @@ function searchGuest() {
     } else if (searchTerm === "claudia") {
       coolHeading.innerHTML = "Kids... Don't dye your hair.";
       coolHeading.style.color = `blue`;
+      keyResults.push(`Mini Boss!`);
     }
   }
 
