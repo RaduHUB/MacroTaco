@@ -402,7 +402,9 @@ ${"<br>".repeat(2)}Best regards,${"<br>".repeat(2)}
   
   https://www.airbnb.com/help/article/990${"<br>".repeat(2)}
   
-  We understand that there may be unforeseen circumstances or exceptional situations that can arise. If you believe there is a valid reason for requesting the cancellation, we kindly ask that you provide us with a detailed explanation as soon as possible. We will review your case and take it into consideration before making any final decisions.
+  We understand that there may be unforeseen circumstances or exceptional situations that can arise. If you believe there is a valid reason for requesting the cancellation, we kindly ask that you provide us with a detailed explanation as soon as possible. We will review your case and take it into consideration before making any final decisions.${"<br>".repeat(
+    2
+  )}
     
   If you have any questions or need further clarification, please do not hesitate to reach out to us. We are here to assist you.
   
