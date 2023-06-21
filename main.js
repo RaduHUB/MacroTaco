@@ -839,6 +839,27 @@ Thank you for choosing Airbnb.
 Best regards,
 
 [Your Name]`,
+  guest_AIRCOVER_HIW: `Hello [Guest's Name],${"<br>".repeat(2)}
+
+I hope you're doing well. I wanted to share some information with you about Airbnb's AirCover program. You can find detailed information on this program by visiting the following link: ${"<br>".repeat(
+    2
+  )}
+
+https://www.airbnb.com/help/article/3218${"<br>".repeat(2)}
+
+AirCover is designed to protect guests like you and provide coverage in specific situations. It outlines the circumstances in which you may be eligible for coverage and assistance, such as if the listing you booked was not accurately described, if it was unclean upon arrival, or if the host cancels your reservation.
+
+It's essential to familiarize yourself with this program as it helps you understand your rights and the options available to you if any issues arise during your stay. AirCover aims to ensure that you have a safe and enjoyable experience when booking through Airbnb.${"<br>".repeat(
+    2
+  )}
+
+If you have any questions or need further clarification regarding AirCover, please feel free to reach out to me. I'm here to assist you and provide guidance to ensure a smooth experience during your stay.
+
+Thank you for your attention, and I'm here to help if you need anything.${"<br>".repeat(2)}
+
+Best regards,${"<br>".repeat(2)}
+
+[Your Name]`,
 };
 
 let keyResults = []; // Array to store key results
