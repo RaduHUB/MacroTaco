@@ -862,6 +862,8 @@ Best regards,${"<br>".repeat(2)}
 [Your Name]`,
 };
 
+console.log(`We currently have ${Object.keys(guest).length + Object.keys(host).length} macros`);
+
 let keyResults = []; // Array to store key results
 
 // --------------------- Result Logic --------------------- //
