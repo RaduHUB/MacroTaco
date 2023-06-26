@@ -413,6 +413,44 @@ ${"<br>".repeat(2)}Best regards,${"<br>".repeat(2)}
   ${"<br>".repeat(2)}Best regards,${"<br>".repeat(2)}
   
   [Your Name]`,
+  host_AIRCOVER_HIW: `Hello [Host's Name],${"<br>".repeat(2)}
+
+  I hope this message finds you well. I wanted to provide you with some important information regarding Airbnb's AirCover for Hosts program. You can find detailed information about this program by visiting the following link: ${"<br>".repeat(
+    2
+  )}
+  
+  https://www.airbnb.com/help/article/3142${"<br>".repeat(2)}
+  
+  The page explains the AirCover for Hosts program, which is designed to provide coverage and assistance to hosts in certain situations. It outlines the circumstances in which hosts may be eligible for support, such as property damage caused by guests or liability protection.
+  
+  It's important to familiarize yourself with this information to understand the coverage and support available to you as a host. The AirCover for Hosts program aims to provide peace of mind and protection for hosts in various situations that may arise during guest stays.${"<br>".repeat(
+    2
+  )}
+  
+  If you have any specific questions or need further clarification regarding the AirCover for Hosts program, please don't hesitate to reach out to us. We are here to assist you and provide guidance to ensure a smooth hosting experience.
+  
+  Thank you for your attention to this matter.${"<br>".repeat(2)}
+  
+  Best regards,${"<br>".repeat(2)}
+  
+  [Your Name]`,
+  ooo: `Hello,${"<br>".repeat(2)}
+
+  I wanted to inform you that my shift is coming to an end, and I will be out of the office until [date]. During this time, if you need any urgent assistance, please feel free to reach out to us directly at [phone number]. We will be available to help you promptly with any pressing matters or emergencies that may arise.${"<br>".repeat(
+    2
+  )}
+  
+  Please note that non-urgent inquiries or requests may experience a delay in response, as I will not be available to address them directly until my return on [date].${"<br>".repeat(
+    2
+  )}
+  
+  Thank you for your understanding, and I look forward to assisting you further when I am back in the office. Have a great day!${"<br>".repeat(
+    2
+  )}
+  
+  Best regards,${"<br>".repeat(2)}
+  
+  [Your Name]`,
 };
 
 // --------------------- Guest Macros --------------------- //
@@ -856,6 +894,23 @@ It's essential to familiarize yourself with this program as it helps you underst
 If you have any questions or need further clarification regarding AirCover, please feel free to reach out to me. I'm here to assist you and provide guidance to ensure a smooth experience during your stay.
 
 Thank you for your attention, and I'm here to help if you need anything.${"<br>".repeat(2)}
+
+Best regards,${"<br>".repeat(2)}
+
+[Your Name]`,
+  ooo: `Hello,${"<br>".repeat(2)}
+
+I wanted to inform you that my shift is coming to an end, and I will be out of the office until [date]. During this time, if you need any urgent assistance, please feel free to reach out to us directly at [phone number]. We will be available to help you promptly with any pressing matters or emergencies that may arise.${"<br>".repeat(
+    2
+  )}
+
+Please note that non-urgent inquiries or requests may experience a delay in response, as I will not be available to address them directly until my return on [date].${"<br>".repeat(
+    2
+  )}
+
+Thank you for your understanding, and I look forward to assisting you further when I am back in the office. Have a great day!${"<br>".repeat(
+    2
+  )}
 
 Best regards,${"<br>".repeat(2)}
 
