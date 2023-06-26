@@ -27,6 +27,10 @@ body {
   margin: 0;
 }
 
+.EE {
+  color: rgb(120, 200, 110);
+}
+
 body {
   display: flex;
   flex-direction: column;
