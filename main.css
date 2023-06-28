@@ -39,13 +39,26 @@ body {
   text-align: center;
   margin: 0;
   padding: 0;
-  background-color: rgb(120, 200, 110);
+  background-color: rgba(130, 210, 110, 0.7);
   transition: 1s;
 }
 
 body:hover {
-  background-color: rgba(120, 200, 110, 0.94);
   transition: 1s;
+  background-color: rgb(130, 210, 110);
+}
+
+body:hover main {
+  visibility: visible;
+}
+
+body:hover h1 {
+  font-size: 60px;
+  transition: 2s;
+}
+
+body:hover footer {
+  visibility: visible;
 }
 
 header {
@@ -65,15 +78,16 @@ footer {
   text-align: center;
   background-color: rgb(150, 110, 30);
   width: 100vw;
+  visibility: hidden;
 }
 
 h1 {
   text-shadow: 3px 3px 3px black;
   color: rgb(120, 200, 110);
   font-family: titles;
-  font-size: 60px;
+  font-size: 70px;
   margin: 2vh auto;
-  transition: 1.5s;
+  transition: 2s;
   cursor: pointer;
 }
 
@@ -113,6 +127,7 @@ main {
   display: flex;
   flex-direction: column;
   align-items: center;
+  visibility: hidden;
 }
 
 .search-container {
