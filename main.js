@@ -365,11 +365,17 @@ ${"<br>".repeat(2)}Best regards,${"<br>".repeat(2)}
   [Your Name]`,
   host_RC_HIW: `Hello [Host's Name],${"<br>".repeat(2)}
 
-  I hope this message finds you well. I wanted to take a moment to explain our Resolution Center and how it can assist in resolving any issues or disputes that may arise during a reservation. 
+  I hope this message finds you well. I wanted to take a moment to explain our Resolution Center and how it can assist in resolving any issues or disputes that may arise during a reservation. ${"<br>".repeat(
+    2
+  )}
   
-  The Resolution Center is a platform provided by Airbnb to facilitate communication and negotiation between hosts and guests when there is a disagreement or a need for reimbursement or resolution. It is designed to help parties find a fair and satisfactory resolution independently, with the option to involve Airbnb as a mediator if necessary.
+  The Resolution Center is a platform provided by Airbnb to facilitate communication and negotiation between hosts and guests when there is a disagreement or a need for reimbursement or resolution. It is designed to help parties find a fair and satisfactory resolution independently, with the option to involve Airbnb as a mediator if necessary.${"<br>".repeat(
+    2
+  )}
   
-  You can access the Resolution Center through your Airbnb account. Once there, you will be able to initiate or respond to a resolution request, communicate with the guest, and submit relevant documentation or evidence to support your case. It is important to provide clear and detailed information to ensure a comprehensive understanding of the situation.
+  You can access the Resolution Center through your Airbnb account. Once there, you will be able to initiate or respond to a resolution request, communicate with the guest, and submit relevant documentation or evidence to support your case. It is important to provide clear and detailed information to ensure a comprehensive understanding of the situation.${"<br>".repeat(
+    2
+  )}
   
   To familiarize yourself with the process and guidelines, I recommend reviewing the Resolution Center article, which can be found here:${"<br>".repeat(
     2
@@ -379,7 +385,9 @@ ${"<br>".repeat(2)}Best regards,${"<br>".repeat(2)}
   
   It provides detailed information on how to navigate the Resolution Center effectively, steps to take for resolution, and the overall process.
   
-  Please remember that open and respectful communication is key when using the Resolution Center. By engaging in constructive dialogue, you can often reach a mutually agreeable solution that benefits both you and the guest.
+  Please remember that open and respectful communication is key when using the Resolution Center. By engaging in constructive dialogue, you can often reach a mutually agreeable solution that benefits both you and the guest.${"<br>".repeat(
+    2
+  )}
   
   If you have any questions or require further assistance with the Resolution Center or any other aspect of your hosting experience, please don't hesitate to reach out to us. We are here to support you and ensure a smooth resolution process.
   
@@ -852,31 +860,24 @@ Best regards,${"<br>".repeat(2)}
   [Your Name]`,
   guest_RC_HIW: `Hello [Guest's Name],${"<br>".repeat(2)}
 
-I hope this message finds you well. I wanted to provide you with some important information regarding the Resolution Center.
-
-The Resolution Center is a powerful tool designed to help you and the host resolve any issues or concerns that may arise during your reservation. It provides a platform for open communication and facilitates the process of finding a fair and satisfactory resolution.
-
-If you encounter any problems or need assistance with your reservation, I encourage you to first try reaching out to the host directly. Many issues can be resolved through direct communication. However, if you are unable to come to an agreement, or if there is a dispute that requires our intervention, the Resolution Center can step in to assist.${"<br>".repeat(
+  I wanted to provide you with some important information regarding the Resolution Center:${"<br>".repeat(
     2
   )}
-
-Through the Resolution Center, you can submit a request and provide details about the issue you're facing. Both you and the host will have the opportunity to communicate and present your perspectives. Our team will carefully review the information provided and work towards a fair resolution for all parties involved.
-
-To learn more about how the Resolution Center works and how it can assist you, please visit this link:${"<br>".repeat(
+  
+  - The Resolution Center: It is a useful tool that allows you to send or request money for matters related to your Airbnb trip or Airbnb Experience. Whether you need to open a refund or payment request, you can conveniently handle it through the Resolution Center. Please note that you have up to 60 days after your reservation's checkout date to submit a request. Additionally, make sure you have added a payment method before initiating any money transactions.${"<br>".repeat(
     2
   )}
-
-https://www.airbnb.com/help/article/767${"<br>".repeat(2)}
-
-It provides a detailed guide on using the Resolution Center effectively and understanding the process.
-
-We want to ensure that you have a positive experience on Airbnb, and the Resolution Center is here to support you throughout your journey. If you have any further questions or need additional assistance, please don't hesitate to reach out to us. We are here to help.
-
-Thank you for choosing Airbnb.
-
-Best regards,
-
-[Your Name]`,
+  
+  - Mediation Assistance: In case you and your guest are unable to reach an agreement, you have the option to ask Airbnb for mediation support. Simply follow the necessary steps, and a dedicated team member will review the information provided by both parties, ask any relevant questions if needed, and ultimately make a final decision. Remember that any issues must be reported to Airbnb within 72 hours of discovery to be eligible under our Rebooking and Refund Policy.${"<br>".repeat(
+    2
+  )}
+  
+  If you require further assistance or have any additional questions, please don't hesitate to reach out. We're here to support you every step of the way.${"<br>".repeat(
+    2
+  )}
+  
+  Best regards,${"<br>".repeat(2)}
+  [Your Name]`,
   guest_AIRCOVER_HIW: `Hello [Guest's Name],${"<br>".repeat(2)}
 
 I hope you're doing well. I wanted to share some information with you about Airbnb's AirCover program. You can find detailed information on this program by visiting the following link: ${"<br>".repeat(
