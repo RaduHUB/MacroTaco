@@ -864,11 +864,11 @@ Best regards,${"<br>".repeat(2)}
     2
   )}
   
-  - The Resolution Center: It is a useful tool that allows you to send or request money for matters related to your Airbnb trip or Airbnb Experience. Whether you need to open a refund or payment request, you can conveniently handle it through the Resolution Center. Please note that you have up to 60 days after your reservation's checkout date to submit a request. Additionally, make sure you have added a payment method before initiating any money transactions.${"<br>".repeat(
+  The Resolution Center: It is a useful tool that allows you to send or request money for matters related to your Airbnb trip or Airbnb Experience. Whether you need to open a refund or payment request, you can conveniently handle it through the Resolution Center. Please note that you have up to 60 days after your reservation's checkout date to submit a request. Additionally, make sure you have added a payment method before initiating any money transactions.${"<br>".repeat(
     2
   )}
   
-  - Mediation Assistance: In case you and your guest are unable to reach an agreement, you have the option to ask Airbnb for mediation support. Simply follow the necessary steps, and a dedicated team member will review the information provided by both parties, ask any relevant questions if needed, and ultimately make a final decision. Remember that any issues must be reported to Airbnb within 72 hours of discovery to be eligible under our Rebooking and Refund Policy.${"<br>".repeat(
+  Mediation Assistance: In case you and your guest are unable to reach an agreement, you have the option to ask Airbnb for mediation support. Simply follow the necessary steps, and a dedicated team member will review the information provided by both parties, ask any relevant questions if needed, and ultimately make a final decision. Remember that any issues must be reported to Airbnb within 72 hours of discovery to be eligible under our Rebooking and Refund Policy.${"<br>".repeat(
     2
   )}
   
@@ -918,7 +918,11 @@ Best regards,${"<br>".repeat(2)}
 [Your Name]`,
 };
 
-console.log(`We currently have ${Object.keys(guest).length + Object.keys(host).length} macros`);
+console.log(
+  `We currently have ${Object.keys(guest).length} Guest Macros, ${
+    Object.keys(host).length
+  } Host Macros, ${Object.keys(guest).length + Object.keys(host).length} in total.`
+);
 
 let keyResults = []; // Array to store key results
 

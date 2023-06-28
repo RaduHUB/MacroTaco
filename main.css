@@ -40,6 +40,12 @@ body {
   margin: 0;
   padding: 0;
   background-color: rgb(120, 200, 110);
+  transition: 1s;
+}
+
+body:hover {
+  background-color: rgba(120, 200, 110, 0.94);
+  transition: 1s;
 }
 
 header {
