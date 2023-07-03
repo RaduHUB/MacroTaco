@@ -1014,6 +1014,8 @@ function searchHost() {
       coolHeading.innerHTML = "Kids... Don't dye your hair.";
       coolHeading.style.color = `blue`;
       keyResults.push(`Mini Boss!`);
+    } else if (searchTerm === "stefan") {
+      keyResults.push(`Facar Boi!`);
     }
   }
 
@@ -1060,6 +1062,8 @@ function searchGuest() {
       coolHeading.innerHTML = "Kids... Don't dye your hair.";
       coolHeading.style.color = `blue`;
       keyResults.push(`Mini Boss!`);
+    } else if (searchTerm === "stefan") {
+      keyResults.push(`Facar Boi!`);
     }
   }
 
