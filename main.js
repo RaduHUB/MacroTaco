@@ -1016,6 +1016,10 @@ function searchHost() {
       keyResults.push(`Mini Boss!`);
     } else if (searchTerm === "stefan") {
       keyResults.push(`Facar Boi!`);
+    } else if (searchTerm === "macro") {
+      keyResults.push(`Taco!`);
+    } else if (searchTerm === "taco") {
+      keyResults.push(`❤️`);
     }
   }
 
@@ -1064,6 +1068,10 @@ function searchGuest() {
       keyResults.push(`Mini Boss!`);
     } else if (searchTerm === "stefan") {
       keyResults.push(`Facar Boi!`);
+    } else if (searchTerm === "macro") {
+      keyResults.push(`Taco!`);
+    } else if (searchTerm === "taco") {
+      keyResults.push(`❤️`);
     }
   }
 
