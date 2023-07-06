@@ -1091,10 +1091,4 @@ function reload() {
   location.reload();
 }
 
-// --------------------- Special Button Logic --------------------- //
-
-function specialButton() {
-  window.close();
-}
-
 // --------------------- End --------------------- //
