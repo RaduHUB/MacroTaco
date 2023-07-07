@@ -1020,6 +1020,8 @@ function searchHost() {
       keyResults.push(`Taco!`);
     } else if (searchTerm === "taco") {
       keyResults.push(`❤️`);
+    } else if (searchTerm === "teo") {
+      keyResults.push(`🌹`);
     }
   }
 
@@ -1072,6 +1074,8 @@ function searchGuest() {
       keyResults.push(`Taco!`);
     } else if (searchTerm === "taco") {
       keyResults.push(`❤️`);
+    } else if (searchTerm === "teo") {
+      keyResults.push(`🌹`);
     }
   }
 
