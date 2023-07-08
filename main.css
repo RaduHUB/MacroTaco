@@ -201,3 +201,28 @@ button:hover {
   align-items: center;
   margin-bottom: 150px;
 }
+
+/* Track */
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+::-webkit-scrollbar-track {
+  background: rgba(120, 190, 110);
+}
+
+/* Thumb */
+::-webkit-scrollbar-thumb {
+  background: rgb(150, 110, 30);
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(120, 250, 110);
+}
+
+@media screen and (-webkit-min-device-pixel-ratio: 0) {
+  /* Use -webkit-scrollbar CSS properties for Chrome */
+  ::-webkit-scrollbar {
+    width: 10px;
+  }
+}
