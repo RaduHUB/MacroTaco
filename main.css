@@ -27,10 +27,6 @@ body {
   margin: 0;
 }
 
-.EE {
-  color: rgb(120, 200, 110);
-}
-
 body {
   display: flex;
   flex-direction: column;
@@ -49,6 +45,10 @@ header {
   position: sticky;
   top: 0;
   z-index: 100;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  position: relative;
 }
 
 footer {
@@ -160,6 +160,24 @@ button:hover {
   box-shadow: 0 0 10px 2px rgb(150, 110, 30);
 }
 
+.dark {
+  padding: 10px 20px;
+  font-size: 18px;
+  background-image: linear-gradient(to right, #a02daa, #585cd6);
+  border: none;
+  cursor: pointer;
+  transition: box-shadow 0.2s;
+  margin: auto 10px;
+  position: absolute;
+  top: 50%;
+  right: 10px;
+  transform: translateY(-50%);
+}
+
+.dark:hover {
+  box-shadow: 2.5px 2.5px 0px black;
+}
+
 .results-container {
   margin-top: 5vh;
   margin-bottom: 40px;
@@ -182,50 +200,4 @@ button:hover {
   flex-direction: column;
   align-items: center;
   margin-bottom: 150px;
-}
-
-/* Media Queries for Responsiveness */
-
-/* Small devices (phones) */
-@media (max-width: 576px) {
-  h1 {
-    font-size: 40px;
-  }
-
-  p,
-  .footP {
-    font-size: 16px;
-    max-width: 80vw;
-  }
-
-  input[type="text"] {
-    font-size: 14px;
-  }
-
-  button,
-  .inputButtons {
-    font-size: 14px;
-  }
-}
-
-/* Medium devices (tablets) */
-@media (min-width: 577px) and (max-width: 992px) {
-  h1 {
-    font-size: 50px;
-  }
-
-  p,
-  .footP {
-    font-size: 18px;
-    max-width: 60vw;
-  }
-
-  input[type="text"] {
-    font-size: 16px;
-  }
-
-  button,
-  .inputButtons {
-    font-size: 16px;
-  }
 }

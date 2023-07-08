@@ -1095,4 +1095,19 @@ function reload() {
   location.reload();
 }
 
+// ---------------------Dark Mode Logic --------------------- //
+
+function dark() {
+  let stylesheet = document.getElementById("stylesheet");
+  var toggleButton = document.getElementById("dark");
+
+  if (stylesheet.getAttribute("href") === "main.css") {
+    stylesheet.setAttribute("href", "dark.css");
+    toggleButton.innerHTML = "☀️";
+  } else {
+    stylesheet.setAttribute("href", "main.css");
+    toggleButton.innerHTML = "🌙";
+  }
+}
+
 // --------------------- End --------------------- //
