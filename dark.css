@@ -182,7 +182,7 @@ button:hover {
 }
 
 .dark:hover {
-  box-shadow: 2.5px 2.5px 0px black;
+  box-shadow: 2.5px 2.5px 0px orange;
 }
 
 .results-container {
