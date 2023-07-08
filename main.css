@@ -219,10 +219,3 @@ button:hover {
 ::-webkit-scrollbar-thumb:hover {
   background: rgba(120, 250, 110);
 }
-
-@media screen and (-webkit-min-device-pixel-ratio: 0) {
-  /* Use -webkit-scrollbar CSS properties for Chrome */
-  ::-webkit-scrollbar {
-    width: 10px;
-  }
-}

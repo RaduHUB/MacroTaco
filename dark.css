@@ -208,3 +208,21 @@ button:hover {
   align-items: center;
   margin-bottom: 150px;
 }
+
+/* Track */
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+::-webkit-scrollbar-track {
+  background: #a02daa;
+}
+
+/* Thumb */
+::-webkit-scrollbar-thumb {
+  background: #585cd6;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: white;
+}
