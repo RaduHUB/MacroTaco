@@ -175,7 +175,7 @@ button:hover {
 }
 
 .dark:hover {
-  box-shadow: 2.5px 2.5px 0px black;
+  box-shadow: 4px 4px 0.5px black;
 }
 
 .results-container {
