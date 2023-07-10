@@ -73,7 +73,7 @@ h1 {
 
 h1:hover {
   transition: 0.5s;
-  color: rgba(0, 0, 0, 0.9);
+  color: white;
   text-shadow: 0px 0px 10px #585cd6;
 }
 
