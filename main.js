@@ -1022,6 +1022,8 @@ function searchHost() {
       keyResults.push(`❤️`);
     } else if (searchTerm === "teo") {
       keyResults.push(`🌹`);
+    } else if (searchTerm === "ceci") {
+      keyResults.push(`LIIAAA!!!!!!`);
     }
   }
 
@@ -1076,6 +1078,8 @@ function searchGuest() {
       keyResults.push(`❤️`);
     } else if (searchTerm === "teo") {
       keyResults.push(`🌹`);
+    } else if (searchTerm === "ceci") {
+      keyResults.push(`LIIAAA!!!!!!`);
     }
   }
 
