@@ -459,19 +459,27 @@ ${"<br>".repeat(2)}Best regards,${"<br>".repeat(2)}
   Best regards,${"<br>".repeat(2)}
   
   [Your Name]`,
-  material_defects_host_violation_confirmed: `Hello [Host's Name],
+  material_defects_host_violation_confirmed: `Hello [Host's Name],${"<br>".repeat(2)}
 
-  I hope this message finds you well. I wanted to inform you that we have recently been in contact with your guest regarding their reservation with you. During our conversation, they reported certain issues that fall under our Rebooking and Refund Policy, which covers matters related to cleanliness, listing inaccuracies, and trouble with check-in.
+  I hope this message finds you well. I wanted to inform you that we have recently been in contact with your guest regarding their reservation with you. During our conversation, they reported certain issues that fall under our Rebooking and Refund Policy, which covers matters related to cleanliness, listing inaccuracies, and trouble with check-in.${"<br>".repeat(
+    2
+  )}
   
-  In accordance with this policy, we will be concluding the reservation [specified time]. We take these concerns seriously and aim to ensure a positive experience for both hosts and guests on our platform.
+  In accordance with this policy, we will be concluding the reservation [specified time]. We take these concerns seriously and aim to ensure a positive experience for both hosts and guests on our platform.${"<br>".repeat(
+    2
+  )}
   
-  If you have any questions or require further information, please don't hesitate to reach out to us. You can find more information related to this matter in this link: https://www.airbnb.com/help/article/2868.
+  If you have any questions or require further information, please don't hesitate to reach out to us. You can find more information related to this matter in this link:${"<br>".repeat(
+    2
+  )} https://www.airbnb.com/help/article/2868.${"<br>".repeat(2)}
 
-  [_details about refunds and adjustments should go here_]
+  __refunds_and_adjustments_details__${"<br>".repeat(2)}
   
-  Thank you for your understanding, and we appreciate your cooperation in resolving this matter.
+  Thank you for your understanding, and we appreciate your cooperation in resolving this matter.${"<br>".repeat(
+    2
+  )}
 
-  Best regards,
+  Best regards,${"<br>".repeat(2)}
 
 [Your Name]`,
 };
