@@ -482,6 +482,26 @@ ${"<br>".repeat(2)}Best regards,${"<br>".repeat(2)}
   Best regards,${"<br>".repeat(2)}
 
 [Your Name]`,
+  material_defects_host_education_after_violation: `Hello [Host's Name],${"<br>".repeat(2)}
+
+  I hope this message finds you well. We are committed to ensuring a positive hosting experience for both you and your guests, and we would like to assist you in addressing the recent issue that arose during your reservation.
+  
+  To help remedy the situation and prevent similar occurrences in future reservations, we recommend reviewing the information provided in the following link:${"<br>".repeat(
+    2
+  )} https://www.airbnb.com/help/article/2895${"<br>".repeat(2)}
+  
+  This resource offers valuable insights and guidance on addressing common issues and enhancing the overall guest experience.
+  
+  If you have any specific questions or require further assistance while implementing these recommendations, please don't hesitate to reach out to us. We are here to support you in any way we can.${"<br>".repeat(
+    2
+  )}
+  
+  Thank you for your cooperation, and we appreciate your commitment to providing exceptional hospitality to our Airbnb community.${"<br>".repeat(
+    2
+  )}
+  
+  Best regards,${"<br>".repeat(2)}
+  [Your Name]`,
 };
 
 // --------------------- Guest Macros --------------------- //
@@ -938,6 +958,26 @@ Thank you for your understanding, and I look forward to assisting you further wh
 
 Best regards,${"<br>".repeat(2)}
 
+[Your Name]`,
+  material_defects_guest_violation_confirmed: `Hello [Guest's Name],${"<br>".repeat(2)}
+
+I hope this message finds you well. I wanted to update you on the issue you reported to us during your stay. After thorough investigation, we have been able to confirm the issue, and we are committed to assisting you in concluding your reservation [specify time].
+
+We understand the importance of ensuring a comfortable and enjoyable stay for our guests, and we sincerely apologize for any inconvenience you may have experienced.${"<br>".repeat(
+    2
+  )}
+__refunds_and_adjustments_details__${"<br>".repeat(2)}
+As a gesture of goodwill, we would like to offer you a coupon that you can use to find an alternative place to stay if you choose to do so. We want to ensure that your future accommodation meets your expectations.${"<br>".repeat(
+    2
+  )}
+
+If there is anything else we can do to assist you or if you have any further questions, please do not hesitate to reach out to us. We are here to support you and ensure that your Airbnb experience is a positive one.
+
+Thank you for your understanding, and we look forward to helping you find a suitable solution.${"<br>".repeat(
+    2
+  )}
+
+Best regards,${"<br>".repeat(2)}
 [Your Name]`,
 };
 
