@@ -1087,6 +1087,10 @@ function searchHost() {
       keyResults.push(`🌹`);
     } else if (searchTerm === "ceci") {
       keyResults.push(`LIIAAA!!!!!!`);
+    } else if (searchTerm === "cynthia") {
+      keyResults.push(
+        `🎁🎁🎁🎁🎁🎁🎁🎁🎁🎁🎁🎁🎁🎁🎁🎁🎁🎁🎁🎁🎁🎁🎁🎁🎁🎁🎁🎁🎁🎁🎁🎁🎁🎁🎁🎁🎁🎁🎁🎁`
+      );
     }
   }
 
@@ -1143,6 +1147,10 @@ function searchGuest() {
       keyResults.push(`🌹`);
     } else if (searchTerm === "ceci") {
       keyResults.push(`LIIAAA!!!!!!`);
+    } else if (searchTerm === "cynthia") {
+      keyResults.push(
+        `🎁🎁🎁🎁🎁🎁🎁🎁🎁🎁🎁🎁🎁🎁🎁🎁🎁🎁🎁🎁🎁🎁🎁🎁🎁🎁🎁🎁🎁🎁🎁🎁🎁🎁🎁🎁🎁🎁🎁🎁`
+      );
     }
   }
 
