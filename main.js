@@ -1090,6 +1090,8 @@ function searchHost() {
       keyResults.push(`❤️`);
     } else if (searchTerm === "teo") {
       keyResults.push(`🌹`);
+     else if (searchTerm === "Ramona") {
+      keyResults.push(`Stai Asa!`);
     } else if (searchTerm === "ceci") {
       keyResults.push(`LIIAAA!!!!!!`);
     } else if (searchTerm === "cynthia") {
